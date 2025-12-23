@@ -172,7 +172,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   },
   CINETVSHOWALLDL: function (seriesTitle,rating,metadata,genres,movieData,oce) {
     return `
-${config.MOVIETITLE || "> *『⚡ 𝗫ＰＲＯ𝗩ＥＲＣＥ 𝑪𝑰𝑵𝑬𝑴𝑨 』*"}
+> *『⚡ 𝗫ＰＲＯ𝗩ＥＲＣＥ 𝑪𝑰𝑵𝑬𝑴𝑨 』*
 > =====================
 > 🎬 *Series:* ${oce}${seriesTitle}${oce}
 > ⭐ *IMDb:* ${oce}${rating}${oce}
